@@ -2,6 +2,9 @@ body{
     background-image:url(fondo.jpeg) ;
     background-size: cover;
 }
+main{
+    background: 100%;
+}
 .nav{
     display: flex;
     flex-wrap: wrap; 
@@ -16,6 +19,4 @@ body{
    
     
 }
-.contenedor{
-    height: 100vh;
-}
+
